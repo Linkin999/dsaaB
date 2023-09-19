@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Run",
+            "request": "launch",
+            "mainClass": "Breadth_First.Run",
+            "projectName": "Numeric_Klotski_7a0f6206"
+        },
+        {
+            "type": "java",
+            "name": "Launch Run",
+            "request": "launch",
+            "mainClass": "Node_and_Main.Run",
+            "projectName": "Numeric_Klotski_7a0f6206"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main4",
+            "request": "launch",
+            "mainClass": "Main4",
+            "projectName": "Numeric_Klotski_7a0f6206"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main3",
+            "request": "launch",
+            "mainClass": "Main3",
+            "projectName": "Numeric_Klotski_7a0f6206"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tset",
+            "request": "launch",
+            "mainClass": "Tset",
+            "projectName": "Numeric_Klotski_7a0f6206"
+        },
+        {
+            "type": "java",
+            "name": "Launch Zeros",
+            "request": "launch",
+            "mainClass": "Zeros",
+            "projectName": "Numeric_Klotski_7a0f6206"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Numeric_Klotski_7a0f6206"
+        }
+    ]
+}
